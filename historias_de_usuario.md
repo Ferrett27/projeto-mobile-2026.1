@@ -1,6 +1,5 @@
-# projeto-mobile-2026.1
-## Historias de usuário 
-### Sistema de reserva de quadras de condomínio.
+# Historias de usuário 
+## Sistema de reserva de quadras de condomínio.
 
 Funcionalidades: Agendamento de Quadras 
 - **Como** morador do condomínio Cidade Jardins.

@@ -1,5 +1,5 @@
 # projeto-mobile-2026.1
-## Historia de usuário 
+## Historias de usuário 
 ### Sistema de reserva de quadras de condomínio.
 
 Funcionalidades: Agendamento de Quadras 

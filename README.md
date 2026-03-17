@@ -7,6 +7,11 @@ Funcionalidades: Agendamento de Quadras
 - Eu quero conseguir agendar uma quadra em horários específicos e checar sua disponibilidade.
 - Para utilizar a quadra para eventos ou lazer.
 
+Funcionalidades: Gerenciamento de Contas 
+- Como Administrador do condomínio Cidade Jardins.
+- Eu quero conseguir acessar o sistema e criar ou remover contas de moradores.
+- Para os moradores conseguirem fazer as reservas.
+
 1° Cenário: Reserva de Quadras <br>
 História de Usuário:
 - Como morador, eu quero agendar um horário em um campo esportivo.
